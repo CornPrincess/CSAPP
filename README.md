@@ -4,7 +4,19 @@
 
 ## 笔记大纲
 
-[Chapter 1 A Tour of Computer Systems](<README (1).md>)
+{% content-ref url="README (1).md" %}
+[README (1).md](<README (1).md>)
+{% endcontent-ref %}
+
+{% content-ref url="part-1-program-structure-and-exectution/chapter-2-representing-and-manipulating-information/" %}
+[chapter-2-representing-and-manipulating-information](part-1-program-structure-and-exectution/chapter-2-representing-and-manipulating-information/)
+{% endcontent-ref %}
+
+{% content-ref url="part-1-program-structure-and-exectution/chapter-3-machine-level-representation-of-programs/" %}
+[chapter-3-machine-level-representation-of-programs](part-1-program-structure-and-exectution/chapter-3-machine-level-representation-of-programs/)
+{% endcontent-ref %}
+
+
 
 ## 学习资料
 
