@@ -15,6 +15,8 @@
   * [3.5 Arithmetic and Logical Operation](chapter3-machine-level-representation-of-programs/3.5-arithmetic-and-logical-operation.md)
   * [3.6 Control](chapter3-machine-level-representation-of-programs/3.7-control.md)
   * [3.7 Procedures](chapter3-machine-level-representation-of-programs/3.7-procedures.md)
+* [Chapter 4 demo](part-1-program-structure-and-exectution/chapter-4-demo/README.md)
+  * [demo2](part-1-program-structure-and-exectution/chapter-4-demo/demo2.md)
 
 ## Part 2 Running Programs on a System
 
